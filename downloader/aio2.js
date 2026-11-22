@@ -1,8 +1,8 @@
 /**
- * Creator : Ryza 
- * Ch : https://whatsapp.com/channel/0029VbE4NyXFSAt8jKbRHt2o
- * 
- * note : don't claim this code
+ * Author  : kyuu masih amatir
+ * Feature : AIO2 Downloader (VidsSave)
+ * Chanel  : https://whatsapp.com/channel/0029VbDO8tI2phHLTSN2ed0U
+ * Note    : don't claim this code
  */
 
 import vm from 'node:vm';
